@@ -1,0 +1,20 @@
+{
+  "name": "day2_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "through2-map": "^3.0.0"
+  }
+}
